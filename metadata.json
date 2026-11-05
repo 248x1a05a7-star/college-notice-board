@@ -1,0 +1,6 @@
+{
+  "name": "CampusBoard: College Notice Board",
+  "description": "An authentic Android college notice board app with four connected screens: notice feed, department filters, full notice viewer, and validated notice posting with persistent on-device storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
